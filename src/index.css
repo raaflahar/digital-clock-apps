@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@layer utilities {
+    .custom-bg {
+        background-image: url('/background.jpg');
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+    }
+}
