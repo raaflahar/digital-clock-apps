@@ -21,7 +21,7 @@ To run this project locally, follow these steps:
 2. Navigate to the project directory:
 
    ```bash
-   cd digital-clock
+   cd digital-clock-apps
    ```
 
 3. Install the dependencies:
@@ -36,7 +36,7 @@ To run this project locally, follow these steps:
    npm start
    ```
 
-5. Open your browser and go to `http://localhost:3000`.
+5. Open your browser and go to `http://localhost:5173`.
 
 ## Code Explanation
 
